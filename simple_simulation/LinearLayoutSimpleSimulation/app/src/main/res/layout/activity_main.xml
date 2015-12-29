@@ -13,7 +13,7 @@
   <android.learn.code.source.linearlayoutsimplesimulation.SimulationLinearLayout
       android:layout_width="match_parent"
       android:layout_height="wrap_content"
-      apps:orient="1">
+      apps:orient="vertical">
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

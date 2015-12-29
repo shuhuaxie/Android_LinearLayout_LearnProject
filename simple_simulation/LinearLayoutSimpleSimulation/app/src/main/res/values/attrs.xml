@@ -2,7 +2,10 @@
 <resources>
   <declare-styleable name="SimulationLinearLayout">
 
-    <attr name="orient" format="integer"/>
+    <attr name="orient">
+      <enum name="horizontal" value="3"></enum>
+      <enum name="vertical" value="4"></enum>
+    </attr>
 
   </declare-styleable>
 
