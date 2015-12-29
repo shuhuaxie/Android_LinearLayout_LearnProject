@@ -8,5 +8,5 @@
     </attr>
 
   </declare-styleable>
-
+  <attr name="attr_style" format="reference"> </attr>
 </resources>

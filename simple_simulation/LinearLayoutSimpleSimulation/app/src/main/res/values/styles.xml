@@ -7,8 +7,11 @@
     <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
     <item name="colorAccent">@color/colorAccent</item>
     <item name="android:orientation">vertical</item>
+    <item name="attr_style">@style/attStyle</item>
   </style>
-
+  <style name="attStyle">
+    <item name="android:background">#660000</item>
+  </style>
   <style name="AppTheme.NoActionBar">
     <item name="windowActionBar">false</item>
     <item name="windowNoTitle">true</item>

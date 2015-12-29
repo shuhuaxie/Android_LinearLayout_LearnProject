@@ -17,7 +17,7 @@ public class SimulationLinearLayout extends ViewGroup {
   }
 
   public SimulationLinearLayout(Context context, @Nullable AttributeSet attrs) {
-    this(context, attrs, 0);
+    this(context, attrs, R.attr.attr_style);
     Log.e("simL", " 2 "); // layout
   }
 
